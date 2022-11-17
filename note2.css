@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://i.ibb.co/vsqX0C1/image.png);
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    margin-left: 30xp;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 500px;
+    margin-bottom: 30px;
+    color: rgba(240, 240, 240, 0.9);
+}
+
+.regras{
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 250px;
+}
+
+li{
+    margin: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+
+.linke{
+    color: white;
+    margin-bottom: 50px;
+    position: relative;
+    font-size: 30px;
+    bottom: 50px;
+}
+
+a {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: darkred;
+}
+a:active {
+  color: black;
+}
