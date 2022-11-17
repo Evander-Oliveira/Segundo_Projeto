@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  color: white;
+  font-family: cursive;
+  position: relative;
+}
+
+.link{
+  font-size:30px ;
+  text-decoration: ;
+}
+
+.titulo{
+  font-size: 30px;
+}
+
+input{
+  margin: 10px 0 0 0;
+  width: 60%;
+  min-height: 20px;
+}
+
+h1{
+  width: 60%;
+}
+
+input{
+  background-color: black;
+  border: 1px solid red;
+  color: #ffffff;
+}
+
+.enviar {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  background: white;
+  color: black;
+  border-radius: 2px;
+  cursor: pointer;
+  width: 5%;
+}
