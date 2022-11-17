@@ -1,0 +1,40 @@
+
+body{
+background-color: black;
+text-align: center;
+color: white;
+font-family: cursive;
+}
+
+.link{
+font-size:30px ;
+color: darkred;
+text-align: center;
+}
+
+.titulo{
+text-align: center;
+}
+
+.imagem{
+position: relative;
+margin-top: -200px;
+}
+
+.corpo{
+position: relative;
+margin-top: -400px;
+}
+
+a {
+color: darkred;
+}
+a:visited {
+color: darkred;
+}
+a:hover {
+color: white;
+}
+a:active {
+color: black;
+}
